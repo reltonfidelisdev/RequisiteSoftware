@@ -1,0 +1,4 @@
+
+    Requisitos Funcionais:
+    Nada mais é, como o próprio nome por si já diz, referem a funcionalidades do sistema, são as funções que
+    o sistema/aplicativo devem possuir para atender o negócio e suas regras.

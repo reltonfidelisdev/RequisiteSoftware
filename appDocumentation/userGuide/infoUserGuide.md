@@ -1,0 +1,1 @@
+Asqui será armazenada a documentação técnica de ajuda aos desenvolvedores

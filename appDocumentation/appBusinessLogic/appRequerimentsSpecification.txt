@@ -1,0 +1,16 @@
+
+
+    Desenvolver uma loja virtual para vender produtos impressos - Adesivos, Tags e Etiquetas
+
+    Deve prover o carregamento rápido das páginas - Entre 1 e 3 segundos.
+
+    Deve ser acessível a partir de um navegador web.
+
+    Ser desenvolvida em PHP - Verificar melhor versao da linguagen para obter maior rapidez
+
+    Prover persistencia de dados em bancos PostgreSQL ou Mysql - Use o PDO!
+
+    Login no app - Deve ser integrado ao login social de forma que o clienete se autentique por meio do facebook, instagram ou twitter
+
+
+

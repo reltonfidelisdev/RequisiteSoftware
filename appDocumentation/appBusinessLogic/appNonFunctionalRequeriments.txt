@@ -1,0 +1,4 @@
+
+
+ Requisitos Não-Funcionais (Qualidade):
+ Tangem a exigência técnica de um ambiente, como sendo: aspectos de segurança do sistema, desempenho, prevenção de falhas e etc.

@@ -1,0 +1,12 @@
+{
+    "name": "material/basic-app",
+    "authors": [
+        {
+            "name": "Relton Fidelis ME",
+            "email": "contato.reltonfidelis@gmail.com"
+        }
+    ],
+    "require": {
+        "facebook/graph-sdk": "^5.7"
+    }
+}

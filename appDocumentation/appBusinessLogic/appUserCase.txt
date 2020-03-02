@@ -1,0 +1,6 @@
+
+
+    Caso de Uso:
+    Uma outra forma de especificar requisitos é através de caso que uso, onde contém o nome da funcionalidade e pode
+    ser conter sua respectiva descrição. No caso de uso você define o ator de maneira a relacionar com as funcionalidades,
+    a partir dessa fase fica melhor descrito os requisitos para então iniciar o modelagem do banco, desenvolvimento e outras etapas.

@@ -1,0 +1,35 @@
+
+    A prototipagem
+    Como já informado nos itens anteriores, certamente o que ajuda a muitos desenvolvedores, são as ferramentas de prototipagem
+    que nos permite ter uma previa do que vamos construir e também serve como ferramenta conducente para validação do produto
+    com o cliente.
+
+    O protótipo nada mais é do que um modelos funcional construído com base nos requisitos elicitados simulando o sistema/app a
+    ser desenvolvido. Ele é a forma mais rápida e econômica de se definir e até mesmo validar um produto, com ele é possível
+    dirimir muitas dúvidas.
+    Podemos prototipar em uma folha de papel, imagem gráfica dentre outras. Quanto as categorias de protótipos temos:
+    Storyboard: Mais utilizado para desenvolvimento de jogos, apresentam cenários considerando sequencias de cenas, personagens,
+    sons entre outros, proporcionando aos designers a simular de situações do projeto.
+
+    Exemplo de Storyboard
+    Baixa Fidelidade: Nessa etapa são rabiscadas as primeiras necessidades do requisito, onde não há necessidade de se preocupar
+    com o resultado final já que está é a fase inicial e ocorre durante a concepção do sistema. É feito um esboço em papel e
+    forma superficial e rápida apenas para pleitear a ideia do projeto, podendo utilizar até post-its.
+
+    Protótipo de baixa fidelidade
+    Média Fidelidade: Nesta etapa são construídos os Wireframes, que são nada mais do que os aspectos mais definidos em
+    comparação ao de baixa fidelidade, pode utilizar papel e lápis para sua construção ou softwares e que montem a estrutura
+    mais linear.
+
+    Protótipo de média fidelidade
+    Alta Fidelidade: Esta é a etapa em que são feitos os mockups ou protótipo funcional chegando mais próximo do produto final,
+    onde permite o usuário ter uma visão mais clara, por ter mais iteratividade com os componentes e formas de navegação, sendo
+    possível não só simular o fluxo de trabalho mas também validar o produto.
+
+    Protótipo de alta fidelidade, o famoso Mockup
+    Mas então quando usa-los? quando tenho uma ideia bem vaga do que desejo desenvolver utilizo o protótipo de baixa fidelidade
+    pois é mais fácil alterar logo no início. Me sinto mais confortável em desenhar um Wireframe no papel ou por vezes com os
+    softwares para prototipagem: Pencil Project, Mockup, Axure, Gliffy, MockingBot entre outros.
+    Quando as etapas e regras já são de conhecimento prévio, prefiro escrever os requisitos e costumo inserir anexo dos protótipos.
+     Por onde começar primeiro? Definindo o problema, você pode iniciar por onde sentir mais afinidade, não existe uma ordem
+     especifica, porém é imprescindível a validação dos requisitos.

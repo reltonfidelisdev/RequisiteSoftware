@@ -1,0 +1,9 @@
+
+
+    Usuário - Só pode ter um email principal
+    Cadastro - Deve ter validação do e-mail antes de estar ativo
+    Senhas  - Poderão ser redefinidas pelo usuário com um e-mail válido
+
+    Prevent - DropShip -> Cadastro - Endereço - Pode cadastrar o máximo 5 enrereços
+
+    Security - Impedir Multiplos Logins -> Deve deslogar/Expirar sessões anteriores ao conectar um novo dispositivo
