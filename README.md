@@ -7,7 +7,7 @@
 <h3 align="center">MaterializeCSS</h3>
 
 <p align="center">
-  Materialize, a CSS Framework based on material design.
+  This project is use Materialize, a CSS Framework based on material design to dsign views.
   <br>
   <a href="http://materializecss.com/"><strong>-- Browse the docs --</strong></a>
   <br>
@@ -30,6 +30,16 @@
   <a href="https://gitter.im/Dogfalo/materialize">
     <img src="https://badges.gitter.im/Join%20Chat.svg" alt="Gitter badge">
   </a>
+</p>
+<hr />
+<p>
+Requeriments is software created for use by system analysts, software engineers and developers. It was created to facilitate the task of gathering and recording requirements.
+This is a personal and open project. There is a willingness to use, contribute and distribute.
+If you use it, please keep the credits.
+
+Requeriments é um software criado para ser usado por analistas de sistemas, engenheiros de software e desenvolvedores. Ele foi criado para facilitar a tarefa de levantamento e registro de requisitos.
+Este é um projeto pessoal e aberto. Senta-se a vontade de usar, contribuir e distribuir.
+Caso venha a utilizar, por favor mantenha os créditos.
 </p>
 
 ## Table of Contents
