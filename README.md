@@ -7,7 +7,7 @@
 <h3 align="center">MaterializeCSS</h3>
 
 <p align="center">
-  This project is use Materialize, a CSS Framework based on material design to dsign views.
+  This project is use Materialize, a CSS Framework based on material design to design views.
   <br>
   <a href="http://materializecss.com/"><strong>-- Browse the docs --</strong></a>
   <br>
